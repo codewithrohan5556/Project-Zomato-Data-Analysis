@@ -1,24 +1,22 @@
 # Project-Zomato-Data-Analysis
-Zomato Data Analysis: An exploratory data analysis project using Python to uncover trends in restaurant locations, cuisines, ratings and online delivery. Visual insights help understand customer behavior and business patterns in the food tech industry.
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Zomato Data Analysis</title>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 40px; }
-    code, pre { background-color: #f4f4f4; padding: 4px; border-radius: 4px; }
-    h1, h2, h3 { color: #e63946; }
-    ul { margin-left: 20px; }
-    img { max-width: 100%; height: auto; border: 1px solid #ccc; margin-top: 10px; }
-  </style>
-</head>
-<body>
 
   <h1>🍽️ Zomato Data Analysis</h1>
   <p>
-    A data analysis project to explore and visualize insights from the Zomato restaurant dataset. 
-    This project dives into restaurant trends across Indian cities, focusing on location, cuisine, pricing, ratings, and online delivery preferences.
+    This project presents a comprehensive exploratory data analysis (EDA) on the Zomato restaurant dataset, with the aim of deriving actionable insights from restaurant-related data across various Indian cities. The dataset includes features such as restaurant name, location, cuisine types, average cost for two, ratings, votes, and whether online ordering or table booking is available. These features were analyzed to understand patterns in consumer preferences, restaurant performance, and operational trends in the food delivery and hospitality industry.
+
+The analysis was performed using Python and its data-centric libraries such as Pandas, Matplotlib, Seaborn, and NumPy within a Jupyter Notebook environment. The process involved data cleaning, feature engineering, visualization, and trend analysis to answer key business questions, including:
+
+Which cities dominate the food-tech space?
+
+What cuisines are most in demand?
+
+How does cost influence ratings?
+
+What role does online ordering play in restaurant success?
+
+A set of informative visualizations has been created to support the findings. The project not only highlights current patterns in restaurant data but also opens doors to potential applications in recommendation systems, business expansion planning, and customer segmentation.
+
+This project demonstrates the practical use of EDA in deriving insights from real-world data and can serve as a strong portfolio piece for aspiring data analysts, business analysts, or data scientists interested in the intersection of food tech and analytics.
   </p>
 
   <h2>📊 Project Description</h2>
