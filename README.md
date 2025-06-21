@@ -61,25 +61,6 @@ zomato-data-analysis/
     <li>Online delivery boosts visibility and engagement.</li>
   </ul>
 
-  <h2>📷 Sample Visualizations</h2>
-  <p>
-    <img src="images/popular_cuisines.png" alt="Popular Cuisines">
-    <img src="images/citywise_restaurants.png" alt="Citywise Restaurant Distribution">
-  </p>
-
-  <h2>🚀 How to Run</h2>
-  <ol>
-    <li>Clone the repository:
-      <pre><code>git clone https://github.com/yourusername/zomato-data-analysis.git</code></pre>
-    </li>
-    <li>Install dependencies:
-      <pre><code>pip install -r requirements.txt</code></pre>
-    </li>
-    <li>Launch the notebook:
-      <pre><code>jupyter notebook notebooks/zomato_analysis.ipynb</code></pre>
-    </li>
-  </ol>
-
   <h2>📌 Conclusion</h2>
   <p>
     This project offers real-world insight into customer preferences and operational trends in the Indian food tech industry. 
