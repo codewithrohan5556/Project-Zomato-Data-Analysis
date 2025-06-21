@@ -3,20 +3,6 @@
   <h1>🍽️ Zomato Data Analysis</h1>
   <p>
     This project presents a comprehensive exploratory data analysis (EDA) on the Zomato restaurant dataset, with the aim of deriving actionable insights from restaurant-related data across various Indian cities. The dataset includes features such as restaurant name, location, cuisine types, average cost for two, ratings, votes, and whether online ordering or table booking is available. These features were analyzed to understand patterns in consumer preferences, restaurant performance, and operational trends in the food delivery and hospitality industry.
-
-The analysis was performed using Python and its data-centric libraries such as Pandas, Matplotlib, Seaborn, and NumPy within a Jupyter Notebook environment. The process involved data cleaning, feature engineering, visualization, and trend analysis to answer key business questions, including:
-
-Which cities dominate the food-tech space?
-
-What cuisines are most in demand?
-
-How does cost influence ratings?
-
-What role does online ordering play in restaurant success?
-
-A set of informative visualizations has been created to support the findings. The project not only highlights current patterns in restaurant data but also opens doors to potential applications in recommendation systems, business expansion planning, and customer segmentation.
-
-This project demonstrates the practical use of EDA in deriving insights from real-world data and can serve as a strong portfolio piece for aspiring data analysts, business analysts, or data scientists interested in the intersection of food tech and analytics.
   </p>
 
   <h2>📊 Project Description</h2>
