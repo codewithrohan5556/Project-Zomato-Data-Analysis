@@ -21,8 +21,8 @@
   <ul>
     <li>Python 3</li>
     <li>Pandas, NumPy</li>
-    <li>Matplotlib, Seaborn</li>
-    <li>Jupyter Notebook</li>
+    <li>Matplotlib, Seaborn, Plotly </li>
+    <li>Jupyter Notebook, Colab</li>
   </ul>
 
   <h2>📁 Project Structure</h2>
